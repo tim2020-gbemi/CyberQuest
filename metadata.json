@@ -1,0 +1,7 @@
+{
+  "name": "CyberQuest: Digital Literacy Adventure",
+  "description": "An interactive, kid-friendly educational arcade adventure where players discover what computers are, how hardware and software work, and master cyber safety and digital citizenship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
